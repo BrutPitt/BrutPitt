@@ -64,6 +64,9 @@
 
 
 <table style="text-align: center; float:center;  width:100%; table-layout: fixed; ">
+    <col width="33%" />
+    <col width="34%" />
+    <col width="33%" />
 <tr  >
 <td>
 <a href="https://github.com/BrutPitt/glChAoS.P">
@@ -129,19 +132,19 @@ fastest realtime GPU denoiser
 <td>
 <p align="center"> 
 <a href="https://www.michelemorrone.eu/glchaosp/" target="glChhAoS.P">
-<img  height="200" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/Magnetic_0.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/Magnetic_0.jpg"/></a>
 </p>  
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/imGuIZMO.quat" target="imGuIZMO_quat">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
 </p>  
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/glslSmartDeNoise" target="glslSmartDeNoise">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
 </p>
 </td>
 </tr>
@@ -213,13 +216,13 @@ Fast Pseudo RaNdom Generator
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/virtualGizmo3D" target="vGizmo3D">
-<img height="200" src="https://raw.githubusercontent.com/BrutPitt/virtualGizmo3D/master/screenshots/oglGizmo.gif"/></a>
-</p>  
+<img style="display: block; max-height:200px; width: auto; height: auto;" height="200" ; src="https://raw.githubusercontent.com/BrutPitt/virtualGizmo3D/master/screenshots/oglGizmo.gif"/></a>
+</p> 
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/DLAf-optimized" target="DLAf">
-<img  height="200" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
 </p> 
 
 
@@ -227,7 +230,7 @@ Fast Pseudo RaNdom Generator
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/fastPRNG" target="fastPRNG">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
 </p>  
 </td>
 </tr>
@@ -307,19 +310,19 @@ WebGL MandelBulb Ray Marching 3D
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/DLAf-optimized" target="DLAf">
-<img  height="200" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/dla3D_A.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/dla3D_A.jpg"/></a>
 </p> 
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/wglMengerBulb" target="wglMengerBulb">
-<img height="200" src="https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot1.jpg"/></a>
+<img style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot1.jpg"/></a>
 </p>
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/wglMandelBulber" target="wglMandelBulber">
-<img height="200" src="https://raw.githubusercontent.com/BrutPitt/wglMandelBulber/master/screenShots/mbulb.jpg"/></a>
+<img style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/wglMandelBulber/master/screenShots/mbulb.jpg"/></a>
 </p>
 </td>
 </tr>
@@ -393,19 +396,19 @@ procedural GLSL/shader rappresentation
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/BorealStarryNight" target="BorealStarryNight">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/BorealStarryNight/master/screenShots/Boreal.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/BorealStarryNight/master/screenShots/Boreal.jpg"/></a>
 </p>
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/et4000.fractals" target="et4000.fractals">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/et4000.fractals/master/Mandel1.jpg"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/et4000.fractals/master/Mandel1.jpg"/></a>
 </p>
 </td>
 <td>
 <p align="center"> 
 <a href="https://github.com/BrutPitt/et4000.fractals" target="PerlinNoise4D">
-<img  height="200" src="https://raw.githubusercontent.com/BrutPitt/PerlinNoise4D/master/screenShots/noise4D.gif"/></a>
+<img  style="display: block; max-height:200px; width: auto; height: auto;" height="200" src="https://raw.githubusercontent.com/BrutPitt/PerlinNoise4D/master/screenShots/noise4D.gif"/></a>
 </p>
 </td>
 </tr>
