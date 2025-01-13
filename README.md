@@ -72,7 +72,7 @@
 <a href="https://github.com/BrutPitt/glChAoS.P">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -91,14 +91,14 @@
 <a href="https://github.com/BrutPitt/imGuIZMO.quat">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark&show_owner=false&description_lines_count=3&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true" />
 </picture>
 </a>
 <!--
@@ -110,14 +110,14 @@
 <a href="https://github.com/BrutPitt/glslSmartDeNoise">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark&show_owner=false&description_lines_count=3&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true" />
 </picture>
 </a>
 
@@ -154,7 +154,7 @@ fastest realtime GPU denoiser
 <a href="https://github.com/BrutPitt/virtualGizmo3D">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -174,7 +174,7 @@ fastest realtime GPU denoiser
 <a href="https://github.com/BrutPitt/vgMath">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -194,7 +194,7 @@ Fast and slight DLA3D / DLA2D
 <a href="https://github.com/BrutPitt/fastPRNG">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -249,7 +249,7 @@ Fast Pseudo RaNdom Generator
 <a href="https://github.com/BrutPitt/DLAf-optimized">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -269,7 +269,7 @@ Fast and slight DLA3D / DLA2D
 <a href="https://github.com/BrutPitt/wglMengerBulb">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -289,7 +289,7 @@ MandelBulb and MengerSponge
 <a href="https://github.com/BrutPitt/wglMandelBulber">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -344,7 +344,7 @@ WebGL MandelBulb Ray Marching 3D
 <a href="https://github.com/BrutPitt/BorealStarryNight">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=BorealStarryNight&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=BorealStarryNight&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -363,7 +363,7 @@ procedural GLSL/shader rappresentation
 <a href="https://github.com/BrutPitt/et4000.fractals">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=et4000.fractals&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=et4000.fractals&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -379,7 +379,7 @@ procedural GLSL/shader rappresentation
 <a href="https://github.com/BrutPitt/PerlinNoise4D">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=PerlinNoise4D&theme=github_dark&show_owner=false&description_lines_count=2&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=PerlinNoise4D&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
