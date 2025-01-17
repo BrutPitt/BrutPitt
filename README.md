@@ -128,7 +128,7 @@ fastest realtime GPU denoiser
 <tr>
 <td align="center" width="33%">
 <a href="https://www.michelemorrone.eu/glchaosp/" target="glChhAoS.P">
-<img style="height: 200px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/Magnetic_0.jpg"/></a>
+<img style="height: 200px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP/screenShots/mainScreenShot.jpg"/></a>
 <td align="center" width="34%">
 <a href="https://github.com/BrutPitt/imGuIZMO.quat" target="imGuIZMO_quat">
 <img style="height: 200px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
