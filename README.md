@@ -64,22 +64,14 @@
 
 
 <table style="text-align: center; float:center;  width:100%; table-layout: fixed; ">
+<!--  glChhAoS.P -->
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://www.michelemorrone.eu/glchaosp/" target="glChhAoS.P">
-<img style="height: 180px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP/screenShots/mainScreenShot.jpg"/></a>
-<td align="center" width="34%">
-<a href="https://github.com/BrutPitt/imGuIZMO.quat" target="imGuIZMO_quat">
-<img style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
+<img style="height: 140px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP/screenShots/mainScreenShot.jpg"/></a>
 </td>
-<td align="center" width="33%">
-<a href="https://github.com/BrutPitt/glslSmartDeNoise" target="glslSmartDeNoise">
-<img style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
-</td>
-</tr>
 
-<tr  >
-<td align="center" width="33%">
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/glChAoS.P">
 <picture>
   <source
@@ -87,81 +79,71 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 <a/>
-<!--
-<b><a href="https://github.com/BrutPitt/glChAoS.P"> glChAoS.P / wglChAoS.P</a></b><br> 
-3D Strange Attractors GPU explorer 
--->
 </td>
-<td align="center" width="34%">
+</tr>
+
+<!--  imGuIZMO.quat -->
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/BrutPitt/imGuIZMO.quat" target="imGuIZMO_quat">
+<img style="height: 120px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
+</td>
+
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/imGuIZMO.quat">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true" />
+  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
 </picture>
 </a>
-<!--
-<b><a href="https://github.com/BrutPitt/imGuIZMO.quat"> ImGuIZMO.quat / imguizmo_quat</a></b><br> 
-3D GIZMO graphic ImGui widget 
--->
 </td>
-<td align="center" width="33%">
+</tr>
+
+<!--  glslSmartDeNoise -->
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/BrutPitt/glslSmartDeNoise" target="glslSmartDeNoise">
+<img style="height: 140px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
+</td>
+
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/glslSmartDeNoise">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&hide_border=true" />
+  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
 </picture>
 </a>
-
-<!--
-<b><a href="https://github.com/BrutPitt/glslSmartDeNoise"> glslSmartDenoise</a></b><br> 
-fastest realtime GPU denoiser
--->
-</td>
+</td>                  
 </tr>
 
-
-</tr>
+<!--  vGizmo3D -->
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/BrutPitt/virtualGizmo3D" target="vGizmo3D">
-<img style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/virtualGizmo3D/master/screenshots/oglGizmo.gif"/></a>
-
-</td>
-  
-<td align="center" width="34%">
-<a href="https://github.com/BrutPitt/DLAf-optimized" target="DLAf">
-<img style="height: 180px; width=auto;" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
+<img style="height: 100px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/virtualGizmo3D/master/screenshots/oglGizmo.gif"/></a>
 </td>
 
-<td align="center" width="33%">
-<a href="https://github.com/BrutPitt/fastPRNG" target="fastPRNG">
-<img style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
-</td>
-</tr>
-
-
-<tr>
-<td align="center" width="33%">
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/virtualGizmo3D">
 <picture>
   <source
@@ -169,19 +151,23 @@ fastest realtime GPU denoiser
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 100px; width=100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
-
-<!-- 
-<b><a href="https://github.com/BrutPitt/virtualGizmo3D"> vGizmo3D / virtualGizmo3D</a></b><br> 
-3D gizmo mouse screen manipulator 
--->
 </td>
-<td align="center" width="34%">
+</tr>
+
+<!--  vgMath -->
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/BrutPitt/vgMath" target="DLAf">
+<img style="height: 120px; width=auto;" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
+</td>
+
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/vgMath">
 <picture>
   <source
@@ -189,19 +175,24 @@ fastest realtime GPU denoiser
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
-
-<!-- 
-<b><a href="https://github.com/BrutPitt/DLAf-optimized"> DLAf-optimized</a></b><br> 
-Fast and slight DLA3D / DLA2D
--->
 </td>
-<td align="center" width="33%">
+</tr>
+
+<!-- fastPRNG -->
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/BrutPitt/fastPRNG" target="fastPRNG">
+<img style="height: 140px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
+
+</td>
+
+<td align="left" width="75%">
 <a href="https://github.com/BrutPitt/fastPRNG">
 <picture>
   <source
@@ -209,17 +200,12 @@ Fast and slight DLA3D / DLA2D
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
-
-<!-- 
-<b><a href="https://github.com/BrutPitt/fastPRNG"> fastPRNG</a></b><br> 
-Fast Pseudo RaNdom Generator
--->
 </td>
 </tr>
 
@@ -231,24 +217,16 @@ Fast Pseudo RaNdom Generator
 
 ## 3D/2D fractals demo - JS / C / C++
 
-<table style="text-align: center;float:center; width:100%;table-layout: fixed;">
+<table width="1000" style="text-align: center;float:center; table-layout: fixed !important; ">
 
+<!-- DLAf -->
 <tr>
-<td align="center" width="33%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/DLAf-optimized" target="DLAf">
-<img style="height: 180px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/dla3D_A.jpg"/></a>
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/dla3D_A.jpg"/></a>
 </td>
-<td align="center" width="34%">
-<a href="https://github.com/BrutPitt/wglMengerBulb" target="wglMengerBulb">
-<img style="height: 180px; width=auto;" src="https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot1.jpg"/></a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/BrutPitt/wglMandelBulber" target="wglMandelBulber">
-<img style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/wglMandelBulber/master/screenShots/mbulb.jpg"/></a>
-</td>
-</tr>
-<tr >
-<td align="center" width="33%">
+
+<td align="left" style="width: 75% !important;">
 <a href="https://github.com/BrutPitt/DLAf-optimized">
 <picture>
   <source
@@ -256,19 +234,24 @@ Fast Pseudo RaNdom Generator
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=DLAf-optimized&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
 
-<!-- 
-<b><a href="https://github.com/BrutPitt/DLAf-optimized"> DLAf-optimized</a></b><br> 
-Fast and slight DLA3D / DLA2D
--->
 </td>
-<td align="center" width="34%">
+</tr>
+
+<!-- wglMengerBulb -->
+<tr>
+<td align="center" style="width: 25%;">
+<a href="https://github.com/BrutPitt/wglMengerBulb" target="wglMengerBulb">
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/wglRayMarchedFractals/WebGL/MengerBulb/screenShots/screenShot1.jpg"/></a>
+</td>
+
+<td align="left" style="width: 75%;">
 <a href="https://github.com/BrutPitt/wglMengerBulb">
 <picture>
   <source
@@ -276,19 +259,24 @@ Fast and slight DLA3D / DLA2D
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMengerBulb&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
-<!-- 
-<b><a href="https://github.com/BrutPitt/wglMengerBulb"> DLAf-optimized</a></b><br> 
-MandelBulb and MengerSponge
--->
+</td>
+</tr>
+
+<!-- wglMandelBulber -->
+<tr>
+<td align="center" style="width: 25%;">
+<a href="https://github.com/BrutPitt/wglMandelBulber" target="wglMandelBulber">
+<img style="height: 140px; width: 220px;" src="https://raw.githubusercontent.com/BrutPitt/wglMandelBulber/master/screenShots/mbulb.jpg"/></a>
+
 </td>
 
-<td align="center" width="33%">
+<td align="left" style="width: 75%;">
 <a href="https://github.com/BrutPitt/wglMandelBulber">
 <picture>
   <source
@@ -296,16 +284,12 @@ MandelBulb and MengerSponge
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&show_owner=false&description_lines_count=3&hide_border=true"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=wglMandelBulber&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
-<!-- 
-<b><a href="https://github.com/BrutPitt/wglMandelBulber"> wglMengerBulb</a></b><br> 
-WebGL MandelBulb Ray Marching 3D 
--->
 </td>
 </tr>
 
@@ -314,13 +298,12 @@ WebGL MandelBulb Ray Marching 3D
 
 <p>&nbsp;<br></p>
 
-
 <p>&nbsp;<br></p>
 
 
 ## A bit of everything... some old stuff... and someone very very old
 
-<table style="text-align: center;float:center; width:100%;table-layout: fixed;">
+<table style="text-align: center; float:center;  width:100%; table-layout: fixed; ">
 
 <tr>
 <td align="center" width="33%">
