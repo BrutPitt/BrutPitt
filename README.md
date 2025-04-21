@@ -63,15 +63,15 @@
 ## some of my shared projects
 
 
-<table style="text-align: center; float:center;  width:100%; table-layout: fixed; ">
+<table>
 <!--  glChhAoS.P -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
 <a href="https://www.michelemorrone.eu/glchaosp/" target="glChhAoS.P">
-<img style="height: 140px; width=auto;" src="https://brutpitt.github.io/myRepos/glChAoSP/screenShots/mainScreenShot.jpg"/></a>
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/glChAoSP/screenShots/mainScreenShot.jpg"/></a>
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/glChAoS.P">
 <picture>
   <source
@@ -82,7 +82,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=2&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glChAoS.P&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 <a/>
 </td>
@@ -90,12 +90,14 @@
 
 <!--  imGuIZMO.quat -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
+    
 <a href="https://github.com/BrutPitt/imGuIZMO.quat" target="imGuIZMO_quat">
-<img style="height: 120px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/imGuIZMO/screenshots/imGuIZMO.gif"/></a>
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/imGuIZMO/screenshots/screenshot_prof.png"/></a>
+
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/imGuIZMO.quat">
 <picture>
   <source
@@ -106,7 +108,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=ImGuIZMO.quat&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
 </picture>
 </a>
 </td>
@@ -114,12 +116,12 @@
 
 <!--  glslSmartDeNoise -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/glslSmartDeNoise" target="glslSmartDeNoise">
-<img style="height: 140px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
+<img style="height: 140px; width: 220px;" src="https://raw.githubusercontent.com/BrutPitt/glslSmartDeNoise/master/sShot1.jpg"/></a>
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/glslSmartDeNoise">
 <picture>
   <source
@@ -130,7 +132,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=glslSmartDenoise&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&hide_border=true" />
 </picture>
 </a>
 </td>                  
@@ -138,12 +140,12 @@
 
 <!--  vGizmo3D -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/virtualGizmo3D" target="vGizmo3D">
-<img style="height: 100px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/virtualGizmo3D/master/screenshots/oglGizmo.gif"/></a>
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/vGizmo3D/screenshot_prof.png"/></a>
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/virtualGizmo3D">
 <picture>
   <source
@@ -154,7 +156,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 100px; width=100px;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=2&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=virtualGizmo3D&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
 </td>
@@ -162,12 +164,12 @@
 
 <!--  vgMath -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/vgMath" target="DLAf">
-<img style="height: 120px; width=auto;" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
+<img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/vGizmo3D/DoEiSfIT.jpg"/></a>
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/vgMath">
 <picture>
   <source
@@ -178,7 +180,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 120px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=2&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=vgMath&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
 </td>
@@ -186,13 +188,13 @@
 
 <!-- fastPRNG -->
 <tr>
-<td align="center" width="25%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/fastPRNG" target="fastPRNG">
-<img style="height: 140px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
+<img style="height: 140px; width: 220px;" src="https://raw.githubusercontent.com/BrutPitt/myRepos/master/fastPRNG/screenShots/sShot_2020626_184459.jpg"/></a>
 
 </td>
 
-<td align="left" width="75%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/fastPRNG">
 <picture>
   <source
@@ -203,7 +205,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=2&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img style="height: 100px; width=auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=2&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=fastPRNG&show_owner=false&description_lines_count=2&hide_border=true" >
 </picture> 
 </a>
 </td>
@@ -217,7 +219,7 @@
 
 ## 3D/2D fractals demo - JS / C / C++
 
-<table width="1000" style="text-align: center;float:center; table-layout: fixed !important; ">
+<table >
 
 <!-- DLAf -->
 <tr>
@@ -226,7 +228,7 @@
 <img style="height: 140px; width: 220px;" src="https://brutpitt.github.io/myRepos/glChAoSP_site/imgAttractors/dla3D_A.jpg"/></a>
 </td>
 
-<td align="left" style="width: 75% !important;">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/DLAf-optimized">
 <picture>
   <source
@@ -305,23 +307,14 @@
 
 <table style="text-align: center; float:center;  width:100%; table-layout: fixed; ">
 
+<!-- Boreal -->
 <tr>
-<td align="center" width="33%">
+<td align="center" style="width: 25%;">
 <a href="https://github.com/BrutPitt/BorealStarryNight" target="BorealStarryNight">
-<img  style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/BorealStarryNight/master/screenShots/Boreal.jpg"/></a>
+<img  style="height: 140px; width: 220px;" src="https://raw.githubusercontent.com/BrutPitt/BorealStarryNight/master/screenShots/Boreal.jpg"/></a>
 </td>
-<td align="center" width="34%">
-<a href="https://github.com/BrutPitt/et4000.fractals" target="et4000.fractals">
-<img  style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/et4000.fractals/master/Mandel1.jpg"/></a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/BrutPitt/et4000.fractals" target="PerlinNoise4D">
-<img  style="height: 180px; width=auto;" src="https://raw.githubusercontent.com/BrutPitt/PerlinNoise4D/master/screenShots/noise4D.gif"/></a>
-</td>
-</tr>
 
-<tr >
-<td align="center" width="33%">
+<td align="left" style="width: 75%">
 <a href="https://github.com/BrutPitt/BorealStarryNight">
 <picture>
   <source
@@ -332,15 +325,20 @@
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=BorealStarryNight&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=BorealStarryNight&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=BorealStarryNight&show_owner=false&description_lines_count=&hide_border=true" >
 </picture> 
 </a>
-<!-- 
-<b><a href="https://github.com/BrutPitt/BorealStarryNight"> BorealStarryNight</a></b><br> 
-procedural GLSL/shader rappresentation
--->
 </td>
-<td align="center" width="34%">
+</tr>
+
+<!-- et4000.fractal -->
+<tr>
+<td align="center" style="width: 25%;">
+<a href="https://github.com/BrutPitt/et4000.fractals" target="et4000.fractals">
+<img  style="height: 140px; width: 220px;" src="https://raw.githubusercontent.com/BrutPitt/et4000.fractals/master/Mandel1.jpg"/></a>
+</td>
+
+<td align="left" style="width: 75%;">
 <a href="https://github.com/BrutPitt/et4000.fractals">
 <picture>
   <source
@@ -351,12 +349,20 @@ procedural GLSL/shader rappresentation
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=et4000.fractals&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=et4000.fractals&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=et4000.fractals&show_owner=false&description_lines_count=&hide_border=true" >
 </picture> 
 </a>
 </td>
+</tr>
 
-<td align="center" width="33%">
+<!-- PerlinNoise4D -->
+<tr>
+<td align="center" style="width: 25%;">
+<a href="https://github.com/BrutPitt/et4000.fractals" target="PerlinNoise4D">
+<img  style="height: 140px; width: auto;" src="https://brutpitt.github.io/myRepos/other_stuff/Screenshot_PerlinNoise4D.png"/></a>
+</td>
+
+<td align="left" style="width: 75%;">
 <a href="https://github.com/BrutPitt/PerlinNoise4D">
 <picture>
   <source
@@ -367,7 +373,7 @@ procedural GLSL/shader rappresentation
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=PerlinNoise4D&show_owner=false&description_lines_count=3&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=PerlinNoise4D&show_owner=false&description_lines_count=&hide_border=true" >
+  <img style="height: 120px; width: auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=BrutPitt&repo=PerlinNoise4D&show_owner=false&description_lines_count=&hide_border=true" >
 </picture> 
 </a>
 </td>
